@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/leona/CLionProjects/Prioridad/Tasa de prioridad.h
+iostream
+-
+
+C:/Users/leona/CLionProjects/Prioridad/main.cpp
+Windows.h
+-
+unistd.h
+-
+cstdlib
+-
+Tasa de prioridad.h
+C:/Users/leona/CLionProjects/Prioridad/Tasa de prioridad.h
+stdio.h
+-
+vector
+-
+list
+-
+string
+-
+iostream
+-
+ctime
+-
+

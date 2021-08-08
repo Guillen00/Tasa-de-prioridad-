@@ -1,0 +1,3 @@
+C:/Users/leona/CLionProjects/Prioridad/cmake-build-debug/CMakeFiles/Prioridad.dir
+C:/Users/leona/CLionProjects/Prioridad/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/leona/CLionProjects/Prioridad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
